@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/ejercicio_hugo_clase/peliculas/la-jungla-de-cristal/</loc>
+    <loc>https://danielmartinca.github.io/ejercicio_hugo_clase/peliculas/la-jungla-de-cristal/</loc>
     <lastmod>2021-09-27T09:12:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/ejercicio_hugo_clase/</loc>
+    <loc>https://danielmartinca.github.io/ejercicio_hugo_clase/</loc>
     <lastmod>2021-09-27T09:12:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/ejercicio_hugo_clase/peliculas/</loc>
+    <loc>https://danielmartinca.github.io/ejercicio_hugo_clase/peliculas/</loc>
     <lastmod>2021-09-27T09:12:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/ejercicio_hugo_clase/posts/esto-es-hugo/</loc>
+    <loc>https://danielmartinca.github.io/ejercicio_hugo_clase/posts/esto-es-hugo/</loc>
     <lastmod>2021-09-22T09:16:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/ejercicio_hugo_clase/posts/</loc>
+    <loc>https://danielmartinca.github.io/ejercicio_hugo_clase/posts/</loc>
     <lastmod>2021-09-22T09:16:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/ejercicio_hugo_clase/contacto/</loc>
+    <loc>https://danielmartinca.github.io/ejercicio_hugo_clase/contacto/</loc>
     <lastmod>2021-09-22T09:06:16+02:00</lastmod>
   </url><url>
-    <loc>http://localhost/ejercicio_hugo_clase/categories/</loc>
+    <loc>https://danielmartinca.github.io/ejercicio_hugo_clase/categories/</loc>
   </url><url>
-    <loc>http://localhost/ejercicio_hugo_clase/search/</loc>
+    <loc>https://danielmartinca.github.io/ejercicio_hugo_clase/search/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost/ejercicio_hugo_clase/tags/</loc>
+    <loc>https://danielmartinca.github.io/ejercicio_hugo_clase/tags/</loc>
   </url>
 </urlset>

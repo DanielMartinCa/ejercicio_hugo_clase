@@ -1,4 +1,4 @@
-baseURL = 'http://localhost/DAW2Diurno/pruebahugo'
+baseURL = 'https://danielmartinca.github.io/ejercicio_hugo_clase/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'tale'
