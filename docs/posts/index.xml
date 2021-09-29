@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
+    <link>http://localhost/ejercicio_hugo_clase/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Sep 2021 09:16:24 +0200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Sep 2021 09:16:24 +0200</lastBuildDate><atom:link href="http://localhost/ejercicio_hugo_clase/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Esto Es Hugo</title>
-      <link>http://example.org/posts/esto-es-hugo/</link>
+      <link>http://localhost/ejercicio_hugo_clase/posts/esto-es-hugo/</link>
       <pubDate>Wed, 22 Sep 2021 09:16:24 +0200</pubDate>
       
-      <guid>http://example.org/posts/esto-es-hugo/</guid>
+      <guid>http://localhost/ejercicio_hugo_clase/posts/esto-es-hugo/</guid>
       <description>Hablemos de Hugo </description>
     </item>
     
