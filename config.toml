@@ -1,4 +1,4 @@
-baseURL = 'http://localhost/ejercicio_hugo_clase'
+baseURL = 'http://localhost/pruebahugo'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'tale'
